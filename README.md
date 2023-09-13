@@ -1,1 +1,2 @@
 # PreEntregaPalermo
+Hola profe, aca dejo mi proyecto parcial, mi proyecto final de desarrollo web fue una pagina sobre un sello musical. Por eso para esta primer pre entrega elegí hacer una trivia de preguntas y respuestas sobre canciones relacionadas al sello. Espero que te guste, me encantan las clases y los tutores son unos genios. Todo el repo esta dentro de la rama MASTER, en la rama MAIN no hay nada. Saludos!
